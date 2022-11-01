@@ -39,7 +39,7 @@ Generate a set of insights and recommendations that will help the bank
 * Avg_Utilization_Ratio: Average Card Utilization Ratio
 
 
-## Business Recommendations
+## Business Recommendations/Key Insights
 We have been able to build a predictive model:
 
 a) that bank can deploy this model to identify customers who are at the risk of attrition.
