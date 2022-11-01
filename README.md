@@ -1,4 +1,4 @@
-# Feature-Selection-Model-Selection-and-Tuning---Credit-Card-Users-Churn-Prediction
+# Feature Selection Model Selection and Tuning Credit Card Users Churn Prediction
 
 ## Background & Context
 
